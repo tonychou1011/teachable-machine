@@ -21,6 +21,7 @@ class SoundOutput {
 		this.assets = [];
 
 		this.assets.push('applause.mp3');
+		this.assets.push('Who Are You.mp3')
 		this.assets.push('bass.mp3');
 		this.assets.push('birds.mp3');
 		this.assets.push('cow.mp3');
